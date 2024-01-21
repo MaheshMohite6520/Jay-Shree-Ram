@@ -28,7 +28,7 @@ Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
-Visit the [live demo]() to experience the Ram Mandir project. Alternatively, open the `index.html` file locally in your web browser.
+Visit the [live demo](https://maheshmohite6520.github.io/Jay-Shree-Ram/) to experience the Ram Mandir project. Alternatively, open the `index.html` file locally in your web browser.
 
 ## Features
 
